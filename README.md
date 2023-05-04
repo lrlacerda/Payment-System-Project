@@ -9,7 +9,8 @@ Este projeto é um sistema de pagamento de uma loja virtual que permite aos clie
 
 As classes do programa foram desenvolvidas com base no seguinte diagrama de classes UML:
 
-![Diagrama de Classes](https://i.imgur.com/k1DlMdp.png)
+![image](https://user-images.githubusercontent.com/106611476/236188952-0833c4b6-c8a0-4da9-a9be-51f7577c1387.png)
+
 
 ## Funcionalidades
 
